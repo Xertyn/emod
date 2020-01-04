@@ -5,9 +5,9 @@
         "module.json": "29f10546e23840a2636a7c77b4c2de38a17290586a3d4a63f2e149e41751b8f3"
     },
     "defs": {
-        "C_SOCIAL", 1,
-        "C_USE_ITEM", 3,
-        "S_LOAD_TOPO", 3,
-        "S_SPAWN_DROPITEM", 8
+        "C_SOCIAL": 1,
+        "C_USE_ITEM": 3,
+        "S_LOAD_TOPO": 3,
+        "S_SPAWN_DROPITEM": 8
     }
 }
