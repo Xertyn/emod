@@ -1,0 +1,16 @@
+{
+    "disableAutoUpdate": false,
+    "disabled": false,
+    "name": "Emod",
+    "author": "Yaorenmao, Xertyn",
+    "description": "Chat commands to use emotes server side.",
+    "version": "04.01.2020",
+    "servers": ["https://raw.githubusercontent.com/Xertyn/emod/master/"],
+    "options": {
+        "niceName": "Emod",
+        "guiName": "Emod",
+        "reloadable": false
+    },
+    "dependencies": {},
+    "conflicts": []
+}

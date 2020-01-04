@@ -1,0 +1,13 @@
+{
+    "files": {
+        "README.md": "9b7a36a2820c2e12f54c9ced986cc2e38782a852c59aade63160d1b29277596b",
+        "index.js": "a046eecfec4b599a4458042c546b36274ea9cd677268f86b1cc2d64e933fbb24",
+        "module.json": "29f10546e23840a2636a7c77b4c2de38a17290586a3d4a63f2e149e41751b8f3"
+    },
+    "defs": {
+        "C_SOCIAL", 1,
+        "C_USE_ITEM", 3,
+        "S_LOAD_TOPO", 3,
+        "S_SPAWN_DROPITEM", 8
+    }
+}
