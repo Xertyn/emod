@@ -1,7 +1,10 @@
-allow to use unused in game emotes server side
+#EMOD  
 
-command:
+##Description  
 
-/8 emo
+Allows you to use ingame emotes server side.  
 
-(3 crafting emotes and several other emotes)
+##Commands:  
+
+```/8 emo``` or ```!emo```  
+(this will list all emote commands)

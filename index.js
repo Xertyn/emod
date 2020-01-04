@@ -171,7 +171,7 @@ module.exports = function pingRemover(dispatch){
 		return hexString;
 	}
 	function spawnMark(idRef, loc) {
-			dispatch.send('S_SPAWN_DROPITEM', 6, {
+			dispatch.send('S_SPAWN_DROPITEM', 8, {
 				gameId: idRef,
 				loc: loc,
 				item: Item_ID, 
